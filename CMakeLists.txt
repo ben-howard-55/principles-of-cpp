@@ -4,4 +4,5 @@ project(principles_of_cpp)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(principles_of_cpp
-        chapter2/hello_world.cpp)
+        chapter3/IO.cpp)
+

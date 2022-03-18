@@ -7,5 +7,6 @@
 int main() {
     std::string hello = "Hello World!";
     std::cout << hello;
-    return 0;
+
+    return 0; // 0 signifies successful execution
 }

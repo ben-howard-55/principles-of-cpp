@@ -44,7 +44,7 @@ int main() {
         }
         illegal = false;
     }
-    
+
     // print calculated info
     std::cout << "Max: " << max << " Min: " << min << " Sum: " << sum << "\n";
 

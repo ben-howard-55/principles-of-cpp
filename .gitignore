@@ -34,5 +34,6 @@
 # idea
 .idea
 
-#cmake debug
+#cmake
 cmake-build-debug
+CMakeLists.txt
